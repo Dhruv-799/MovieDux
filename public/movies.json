@@ -1,142 +1,205 @@
 [
   {
     "id": 1,
-    "title": "Dark Storm",
+    "title": "Dead Poets Society",
     "image": "1.jpg",
     "genre": "drama",
-    "rating": "8.3"
+    "rating": "8.1"
   },
   {
     "id": 2,
-    "title": "Whisper of Fate",
+    "title": "In the Mood for Love",
     "image": "2.jpg",
-    "genre": "fantasy",
-    "rating": "7.7"
+    "genre": "romance",
+    "rating": "8.0"
   },
   {
     "id": 3,
-    "title": "Beyond the Edge",
+    "title": "Chungking Express",
     "image": "3.jpg",
-    "genre": "horror",
-    "rating": "6.3"
+    "genre": "drama",
+    "rating": "8.0"
   },
   {
     "id": 4,
-    "title": "Lost in Shadows",
+    "title": "Happy Together",
     "image": "4.jpg",
-    "genre": "action",
-    "rating": "9.3"
+    "genre": "romance",
+    "rating": "8.0"
   },
   {
     "id": 5,
-    "title": "Echoes of Power",
+    "title": "2046",
     "image": "5.jpg",
-    "genre": "fantasy",
-    "rating": "6.9"
+    "genre": "drama",
+    "rating": "7.7"
   },
   {
     "id": 6,
-    "title": "Grim Reckoning",
+    "title": "Days of Being Wild",
     "image": "6.jpg",
     "genre": "drama",
-    "rating": "8.4"
+    "rating": "7.5"
   },
   {
     "id": 7,
-    "title": "Fury's Flight",
+    "title": "Fallen Angels",
     "image": "7.jpg",
-    "genre": "action",
-    "rating": "9.8"
+    "genre": "drama",
+    "rating": "7.6"
   },
   {
     "id": 8,
-    "title": "Path of the Forgotten",
+    "title": "Raise the Red Lantern",
     "image": "8.jpg",
-    "genre": "action",
-    "rating": "7.2"
+    "genre": "drama",
+    "rating": "8.1"
   },
   {
     "id": 9,
-    "title": "Nightmare's Threshold",
+    "title": "Kill Your Darlings",
     "image": "9.jpg",
-    "genre": "horror",
-    "rating": "1.7"
+    "genre": "drama",
+    "rating": "7.0"
   },
   {
     "id": 10,
-    "title": "Eternal Hunt",
+    "title": "Pride and Prejudice",
     "image": "10.jpg",
-    "genre": "fantasy",
-    "rating": "7.5"
+    "genre": "romance",
+    "rating": "7.8"
   },
   {
     "id": 11,
-    "title": "Legacy of the Void",
+    "title": "12 Angry Men",
     "image": "11.jpg",
-    "genre": "action",
-    "rating": "8.5"
+    "genre": "drama",
+    "rating": "9.0"
   },
   {
     "id": 12,
-    "title": "Shadow's Crescent",
+    "title": "The Shawshank Redemption",
     "image": "12.jpg",
-    "genre": "horror",
-    "rating": "7.5"
+    "genre": "drama",
+    "rating": "9.3"
   },
   {
     "id": 13,
-    "title": "Crimson Dawn",
+    "title": "Silenced",
     "image": "13.jpg",
-    "genre": "fantasy",
-    "rating": "8.4"
+    "genre": "thriller",
+    "rating": "8.0"
   },
   {
     "id": 14,
-    "title": "Silent Kingdom",
+    "title": "Under the Hawthorn Tree",
     "image": "14.jpg",
-    "genre": "fantasy",
-    "rating": "6.5"
+    "genre": "romance",
+    "rating": "7.2"
   },
   {
     "id": 15,
-    "title": "Mystic Rite",
+    "title": "Portrait of a Lady on Fire",
     "image": "15.jpg",
-    "genre": "fantasy",
-    "rating": "9.8"
+    "genre": "romance",
+    "rating": "8.0"
   },
   {
     "id": 16,
-    "title": "Reign of the Lost",
+    "title": "Little Women",
     "image": "16.jpg",
-    "genre": "horror",
-    "rating": "9.1"
+    "genre": "drama",
+    "rating": "7.8"
   },
   {
     "id": 17,
-    "title": "Timeless Myth",
+    "title": "Maurice",
     "image": "17.jpg",
-    "genre": "drama",
-    "rating": "4.0"
+    "genre": "romance",
+    "rating": "7.4"
   },
   {
     "id": 18,
-    "title": "Oath of the Fallen",
+    "title": "Silence of the Lambs",
     "image": "18.jpg",
-    "genre": "fantasy",
-    "rating": "6.3"
+    "genre": "thriller",
+    "rating": "8.6"
   },
   {
     "id": 19,
-    "title": "Veil of Night",
+    "title": "The Green Mile",
     "image": "19.jpg",
     "genre": "drama",
-    "rating": "9.5"
+    "rating": "8.6"
   },
   {
     "id": 20,
-    "title": "Guardians of Twilight",
+    "title": "Casablanca",
     "image": "20.jpg",
-    "genre": "horror",
-    "rating": "7.4"
+    "genre": "romance",
+    "rating": "8.5"
+  },
+  {
+    "id": 21,
+    "title": "Roman Holiday",
+    "image": "21.jpg",
+    "genre": "romance",
+    "rating": "8.0"
+  },
+  {
+    "id": 22,
+    "title": "Gone with the Wind",
+    "image": "22.jpg",
+    "genre": "romance",
+    "rating": "8.1"
+  },
+  {
+    "id": 23,
+    "title": "The Butterfly Effect",
+    "image": "23.jpg",
+    "genre": "thriller",
+    "rating": "7.6"
+  },
+  {
+    "id": 24,
+    "title": "Woman in the Dunes",
+    "image": "24.jpg",
+    "genre": "drama",
+    "rating": "8.0"
+  },
+  {
+    "id": 25,
+    "title": "Farewell My Concubine",
+    "image": "25.jpg",
+    "genre": "drama",
+    "rating": "8.1"
+  },
+  {
+    "id": 26,
+    "title": "The Handmaiden",
+    "image": "26.jpg",
+    "genre": "thriller",
+    "rating": "8.1"
+  },
+  {
+    "id": 27,
+    "title": "Ju Dou",
+    "image": "27.jpg",
+    "genre": "drama",
+    "rating": "7.5"
+  },
+  {
+    "id": 28,
+    "title": "Anatomy of a Murder",
+    "image": "28.jpg",
+    "genre": "drama",
+    "rating": "8.0"
+  },
+  {
+    "id": 29,
+    "title": "Spotlight",
+    "image": "29.jpg",
+    "genre": "thriller",
+    "rating": "8.1"
   }
 ]
